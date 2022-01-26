@@ -1,0 +1,29 @@
+* {
+    padding: 0; margin: 0;
+}
+
+html {
+    font-size: 16px;    
+}
+
+body {
+    background-color: #fef4fb;
+    padding: 0; margin: 0;
+    font-size: 1.6rem;
+}
+
+.upload-box {
+    background-color: #EAF6FF;
+    padding: 1.5rem;
+    font-size: 1.6rem;  
+}
+
+.result-area {
+    
+}
+
+.result-area textarea {
+    background-color: #161925;
+    color: white;
+    width: 100%; max-height: 80vh;    
+}
